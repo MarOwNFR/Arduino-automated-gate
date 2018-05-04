@@ -1,4 +1,4 @@
-# Portail-Automatise-Arduino
+# Arduino Automated Gate
 Portail Automatisé Sur Arduino
 
 ***README***
