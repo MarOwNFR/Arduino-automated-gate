@@ -1,5 +1,5 @@
 # Arduino Automated Gate
-Automated gate on Arduino with pushbutton switch and stepper motor
+Automated gate on Arduino with push button switch and stepper motor
 
 ***README***
 
