@@ -1,5 +1,5 @@
 # Arduino Automated Gate
-Portail Automatisé Sur Arduino
+Automated gate on Arduino with pushbutton switch and stepper motor
 
 ***README***
 
