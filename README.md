@@ -3,17 +3,17 @@ Portail Automatisé Sur Arduino
 
 ***README***
 
-Merci d'avoir télécharger ce programme.
+Thank you for downloading this program.
 
-Ce programme consiste à faire fonctionner une portail qui s'ouvre de gauche à droite à l'aide d'un moteur pas à pas, d'un
-bouton poussoir, (interrupteur fin de course) et d'une DEL.
+This program consists of operating a gate that opens from left to right using a stepping motor, a
+push button, (limit switch) and a LED.
 
-Vous pouvez en retirant les commentaires des lignes 14,25,26,27,28,29,30 et en mettant en commentaire les lignes
-31,32,34,36 afin de rajouter un capteur de fin de course pour l'ouverture du portail.
+You can remove the comments from lines 14,25,26,27,28,29,30 and comment the lines
+31,32,34,36 to add a limit switch for opening the gate.
 
-N'hésité pas à commenter le projet pour me faire part de vos avis, conseils, ajouts ou problèmes.
+Do not hesitate to comment on the project to share your opinions, advice, additions or problems.
 
 
 ***Plus***
 
-Ce projet à été réalisé dans le cadre d'une maquette d'une maison dans le Lycée Professionnel privé Saint-Joseph pour le cours sur les Arduino.
+This project was carried out within the framework of a model of a house in the Lycée Professionnel privé Saint-Joseph for the Arduino course.
